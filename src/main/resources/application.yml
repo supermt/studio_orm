@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    hibernate.ddl-auto: none
+  datasource:
+    url:  jdbc:mysql://localhost:3306/temp
+    username: sa
+    password: Welcome1
